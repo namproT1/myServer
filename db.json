@@ -1,0 +1,65 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "name": "Táo",
+        "price": "20.000 VNĐ",
+        "image": "https://i.pinimg.com/736x/d6/fa/48/d6fa486039002c5a3d0542328fa95adc.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Cam",
+        "price": "25.000 VNĐ",
+        "image": "https://png.pngtree.com/element_our/20190601/ourmid/pngtree-half-orange-image_1333154.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Chuối",
+        "price": "15.000 VNĐ",
+        "image": "https://png.pngtree.com/png-vector/20210526/ourmid/pngtree-banana-diet-fruit-vitamin-png-image_3356843.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dưa hấu",
+        "price": "30.000 VNĐ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROwt7SdSegysKyKagGFDQdyOoyUm4m9lvVdA&s"
+      },
+      {
+        "id": 5,
+        "name": "Xoài",
+        "price": "40.000 VNĐ",
+        "image": "https://png.pngtree.com/png-vector/20210917/ourlarge/pngtree-yellow-fruit-mango-png-image_3937294.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Nho",
+        "price": "50.000 VNĐ",
+        "image": "https://png.pngtree.com/png-vector/20230413/ourmid/pngtree-grape-fruit-illustration-png-image_6696442.png"
+      },
+      {
+        "id": 7,
+        "name": "Dâu tây",
+        "price": "60.000 VNĐ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvlCLff8FpFkrhvuiIeu29-4BMnSOz4fxbQ&s"
+      },
+      {
+        "id": 8,
+        "name": "Bơ",
+        "price": "35.000 VNĐ",
+        "image": "https://tfruit.com.vn/wp-content/uploads/2020/03/qua_bo.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Dứa",
+        "price": "28.000 VNĐ",
+        "image": "https://img.lovepik.com/photo/50172/3988_lovepik-fresh-green-pineapple-photo-image_wh860.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Lê",
+        "price": "32.000 VNĐ",
+        "image": "https://png.pngtree.com/png-clipart/20190116/ourmid/pngtree-green-fruit-sydney-pear-png-image_376887.jpg"
+      }
+    ]
+  }
+  
